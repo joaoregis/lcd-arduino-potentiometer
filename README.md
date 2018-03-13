@@ -1,4 +1,4 @@
-Circuito para demonstrar uso do display LCD 16x2
+# Circuito para demonstrar uso do display LCD 16x2
 Código para microcontrolador arduino, para controlar display LCD
 com controle da alimentação usando um potenciômetro
 
