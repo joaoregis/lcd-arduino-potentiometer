@@ -13,4 +13,4 @@ com controle da alimentação usando um potenciômetro
 
 # Circuito
 
-<img src="https://i.imgur.com/VgGPkzV.png" />
+<img src="https://i.imgur.com/OwptLa9.png" />
